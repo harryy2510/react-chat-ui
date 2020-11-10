@@ -2,3 +2,4 @@ src
 temp
 demo
 *.DS_Store
+.idea
